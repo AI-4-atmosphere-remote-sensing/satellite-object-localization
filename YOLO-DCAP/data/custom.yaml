@@ -1,0 +1,9 @@
+path: /path/to/data  # dataset root dir
+train: images/train
+val: images/val
+test: images/test 
+
+# Classes
+names:
+  0: gw
+  1: noise
